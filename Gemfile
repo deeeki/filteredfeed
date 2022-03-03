@@ -3,6 +3,7 @@
 source "https://rubygems.org"
 
 gem 'puma'
+gem 'rss'
 gem 'sinatra'
 
 group :development do
