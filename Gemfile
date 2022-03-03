@@ -2,6 +2,8 @@
 
 source "https://rubygems.org"
 
+ruby '~> 3.1.1'
+
 gem 'puma'
 gem 'rss'
 gem 'sinatra'
